@@ -14,3 +14,6 @@
 ## Testing Images
 - If you do not have leaf images then you can use test images located in test_images folder
 - Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
+<img width="293" height="410" alt="1 jpg" src="https://github.com/user-attachments/assets/a8c9647b-ee4b-438f-b8e2-f400d80fed89" />
+<img width="606" height="374" alt="2 jpg" src="https://github.com/user-attachments/assets/541187bc-0e49-474e-8fbc-bd255515166a" />
+<img width="388" height="416" alt="3 jpg" src="https://github.com/user-attachments/assets/027cf1d1-e77e-43df-aff2-465c2f1f0e00" />
